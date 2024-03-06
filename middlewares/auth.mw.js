@@ -73,5 +73,6 @@ const verifySignInBody = async(req, res, next) => {
 }
 
 module.exports = {
-    verifySignUpBody : verifySignUpBody
+    verifySignUpBody : verifySignUpBody,
+    verifySignInBody : verifySignInBody
 }
