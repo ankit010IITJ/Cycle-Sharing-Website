@@ -1,4 +1,4 @@
 module.exports = {
     DB_NAME: "cycleSharing_db",
-    DB_URL: "mongodb://localhost"
+    DB_URL: "mongodb://0.0.0.0/cycleSharing_db"
 }
